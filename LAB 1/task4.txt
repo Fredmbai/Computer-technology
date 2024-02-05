@@ -1,0 +1,15 @@
+------------------------------------
+|             List                  |
+------------------------------------
+| - elements: array of Element      |
+| - size: int                       |
+------------------------------------
+| + List()                          |
+| + isEmpty(): bool                 |
+| + isFull(): bool                  |
+| + getSize(): int                  |
+| + insert(element: Element, pos: int) |
+| + remove(pos: int)                |
+| + get(pos: int): Element          |
+| + display()                       |
+------------------------------------
